@@ -288,3 +288,8 @@ flowchart TD
 
     NextOrphanListPage2 -->|"Zero value (null terminator)"| NullTerminator["End of Orphaned Pages List"]
 ```
+
+
+## Parcours francais
+
+Lecture pedagogique en francais du code source de ce depot : voir docs/fr/README.md.
